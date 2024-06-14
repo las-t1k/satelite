@@ -1,4 +1,4 @@
-## [EN] Project: Satellite
+## [EN] Project: Satelite
 
 **🎯 Objective:**  
 Provide a single complaint management tool for managers, replacing the need to access multiple systems to view complaints against the company.
@@ -19,7 +19,7 @@ The implementation of the project resulted in a significant reduction in the com
 - **Network Throughput and Scalability:** Learned about the importance of managing network throughput and scaling the system to support the data load without compromising performance.
 - **System Parameterization:** The experience reinforced the need for careful configuration and parameterization to ensure the system functioned reliably and efficiently.
 
-## [PT-BR] Projeto: Satellite
+## [PT-BR] Projeto: Satelite
 
 **🎯 Objetivo:**  
 Fornecer uma única ferramenta de gestão de reclamações para gerentes, substituindo a necessidade de acessar múltiplos sistemas para visualizar reclamações contra a empresa.
