@@ -1,4 +1,4 @@
-## Projeto: Satellite
+## Projeto: Satelite
 
 **🎯 Objetivo:**  
 Fornecer uma única ferramenta de gestão de reclamações para gerentes, substituindo a necessidade de acessar múltiplos sistemas para visualizar reclamações contra a empresa.
